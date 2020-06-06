@@ -1,4 +1,7 @@
-
+<!--
+0. conexiune baza de date in PHP
+1. arata elementele din baza de date pe pagina
+ -->
 
 <html>
 <head>
@@ -13,3 +16,4 @@
 
 </body>
 </html>
+
